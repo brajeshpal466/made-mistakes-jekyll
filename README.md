@@ -8,7 +8,7 @@ with [Jekyll](http://jekyllrb.com) [Gulp](http://gulpjs.com/), and
 [Jekyll repos](https://mademistakes.com/work/jekyll-themes/) and isn't compatible 
 with the "default" GitHub Pages workflow without substantial alterations.*
 
-### Plugins used
+### Plugins used br pravesh
 
 - [Jekyll Sitemap](https://github.com/jekyll/jekyll-sitemap) (GitHub Pages supported)
 - [Jemoji](https://github.com/jekyll/jemoji)
